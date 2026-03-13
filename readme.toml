@@ -1,15 +1,14 @@
 course_name = "计算机视觉"
-repo_type = "normal"
 course_code = "COMP3029"
+repo_type = "normal"
 
-description = ""
+[lecturers]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "苏敬勇"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "人很和蔼，会在群里和大家聊天，课讲得深入浅出，看得出对 DL、CV 有很深的理解。"
-
 
 [[sections]]
 title = "课程内容"

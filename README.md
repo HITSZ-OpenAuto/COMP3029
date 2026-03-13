@@ -9,6 +9,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 苏敬勇
   <!-- TOML-ITEM: id="review-苏敬勇-1" -->
   - 人很和蔼，会在群里和大家聊天，课讲得深入浅出，看得出对 DL、CV 有很深的理解。
