@@ -1,11 +1,5 @@
 # COMP3029 - 计算机视觉
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考勤24%](https://img.shields.io/badge/考勤-24%25-wheat)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![FinalProject36%](https://img.shields.io/badge/FinalProject-36%25-wheat)
 
 ## 授课教师
 
