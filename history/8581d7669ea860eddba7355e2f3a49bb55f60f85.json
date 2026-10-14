@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814917,
+    "hash": "1ba17286c36aa4bf26ef295f4988f0d7207e8ab1"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754241044,
+    "hash": "9056cffd68c78532ad629d5d3c964a45247a932c"
+  },
+  "README.md": {
+    "size": 500,
+    "time": 1791961602,
+    "hash": "8581d7669ea860eddba7355e2f3a49bb55f60f85"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754241044,
+    "hash": "9056cffd68c78532ad629d5d3c964a45247a932c"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754241044,
+    "hash": "9056cffd68c78532ad629d5d3c964a45247a932c"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754241044,
+    "hash": "9056cffd68c78532ad629d5d3c964a45247a932c"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754241044,
+    "hash": "9056cffd68c78532ad629d5d3c964a45247a932c"
+  },
+  "readme.toml": {
+    "size": 453,
+    "time": 1791266567,
+    "hash": "45c4d3caf1abef48c09736ebd5184ee9def7b0bd"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754241044,
+    "hash": "9056cffd68c78532ad629d5d3c964a45247a932c"
+  },
+  "slides/2022/Lecture 1 Introduction.pptx": {
+    "size": 8239696,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 10 CNN.pptx": {
+    "size": 4611853,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 11 RNN.pptx": {
+    "size": 3403670,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 2 Linear Algebra Primer.pptx": {
+    "size": 3399572,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 3 Pixels and Filters.pptx": {
+    "size": 26234564,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 4 Edge Detection.pdf": {
+    "size": 2142898,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 5 Finding Features.pptx": {
+    "size": 21516593,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 6 Clustering and Segmentation.pptx": {
+    "size": 13469473,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 7 Object Recognition.pptx": {
+    "size": 19134614,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 8 Face Detection.pptx": {
+    "size": 8843488,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  },
+  "slides/2022/Lecture 9 从神经元到深度学习.pptx": {
+    "size": 5516583,
+    "time": 1756080538,
+    "hash": "e931c1da4738154ebb305e777b0ceaf1a496f978"
+  }
+}
